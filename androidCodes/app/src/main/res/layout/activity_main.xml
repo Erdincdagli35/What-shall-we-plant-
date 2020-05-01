@@ -4,15 +4,120 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#EEF1EF"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+    <LinearLayout
+        android:id="@+id/ll_main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="143dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="left"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                app:srcCompat="@drawable/agriculture_icon" />
+
+            <TextView
+                android:id="@+id/projectName"
+                android:layout_width="221dp"
+                android:layout_height="120dp"
+                android:fontFamily="@font/allura"
+                android:padding="30dp"
+                android:text="Ne Ekelim"
+                android:textColor="#22A527"
+                android:textSize="38sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="99dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="351dp"
+                android:layout_height="148dp"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:padding="30dp"
+                android:text="Hoş Geldiniz "
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#22A527"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="315dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="50dp">
+
+            <Button
+                android:id="@+id/adminBtn"
+                android:layout_width="175dp"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:text="Yönetici"
+                android:textAllCaps="false"
+                android:textColor="#FEFFFC"
+                android:textColorHint="#FEFFFC"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/farmerBtn"
+                android:layout_width="175dp"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:text="Çiftçi"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#FEFFFC"
+                android:textColorHint="#FEFFFC"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="72dp"
+            android:orientation="vertical"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:id="@+id/companyName"
+                android:layout_width="340dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="150dp"
+                android:fontFamily="cursive"
+                android:text="EDSoft"
+                android:textAlignment="center"
+                android:textColor="#22A527"
+                android:textSize="25dp" />
+        </LinearLayout>
+
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

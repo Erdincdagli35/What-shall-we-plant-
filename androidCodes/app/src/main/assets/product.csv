@@ -1,0 +1,331 @@
+Ürün,Üretim,EkildiğiAy,Tohum Fiyatı,Bölge,ÜretimSüresi,SatışFiyatı,Gübre,EkilenAlan,DestekParası,Id,binarySonuc,durum
+Soğan  ,142257,Şubat,4.9,Marmara,Kısa Süre,2.0,15.0,844750.0,21,1,0,Zarar
+Soğan  ,2200000,Eylül,4.9,Ege,Uzun Süre ,3.0,20.0,6135880.0,0,2,0,Zarar
+Sarımsak  ,23351,Ekim,3.0,Karadeniz,Uzun Süre ,50.0,30.0,187300.0,0,3,1,Kar
+Sarımsak ,103096,Mart,4.0,İç Anadolu,Uzun Süre ,40.0,25.0,1243570.0,0,4,1,Kar
+Pırasa ,234052,Mart,3.4,Ege,Uzun Süre ,1.2,12.5,754190.0,0,5,0,Zarar
+Havuç ,663882,Mart,2.9,İç Anadolu,Kısa Süre,3.0,15.0,1257720.0,0,6,0,Zarar
+Şalgam ,2388,Eylül,4.9,Akdeniz,Kısa Süre,2.5,27.5,9850.0,0,7,0,Zarar
+Pancar  ,9917,Mart,6.9,İç Anadolu,Uzun Süre ,5.25,22.0,38830.0,0,8,0,Zarar
+Kereviz  ,23323,Mart,4.5,Ege,Kısa Süre,3.0,35.0,97390.0,0,9,0,Zarar
+Turp  ,14534,Mart,4.9,Akdeniz,Kısa Süre,2.0,32.0,66480.0,0,10,0,Zarar
+Turp  ,198112,Ekim,6.9,Güneydoğu Anadolu,Kısa Süre,3.0,29.0,563040.0,0,11,0,Zarar
+Turp ,6170,Haziran,4.9,İç Anadolu,Kısa Süre,2.5,27.0,19420.0,0,12,0,Zarar
+Domates ,8836055,Ocak,3.8,Marmara,Kısa Süre,3.0,30.0,11917720.0,0,13,0,Zarar
+Salatalık,1748157,Mart,4.95,Akdeniz,Kısa Süre,1.2,19.0,2892870.0,0,14,0,Zarar
+Acur ,43204,Mart,3.9,Güneydoğu Anadolu,Kısa Süre,4.0,21.5,257400.0,0,15,0,Zarar
+Biber  ,1234423,Şubat,4.4,Güneydoğu Anadolu,Kısa Süre,2.25,15.0,3727750.0,0,16,0,Zarar
+Biber  ,371918,Mart,9.9,Ege,Kısa Süre,3.0,30.0,1229520.0,0,17,0,Zarar
+Biber  ,902203,Nisan,7.8,Marmara,Uzun Süre ,4.3,17.0,2776420.0,0,18,0,Zarar
+Biber,117125,Mayıs,9.9,Doğu Anadolu,Uzun Süre ,3.0,35.0,193050.0,0,19,0,Zarar
+Bamya ,31428,Mart,3.8,Ege,Kısa Süre,15.0,40.0,515570.0,0,20,1,Kar
+Patlıcan ,822659,Ocak,4.5,Marmara,Uzun Süre ,2.0,20.0,1930670.0,0,21,0,Zarar
+Kabak  ,447830,Haziran,3.49,Marmara,Uzun Süre ,3.0,35.0,967160.0,0,22,0,Zarar
+Balkabağı ,92319,Mart,6.14,Ege,Uzun Süre ,5.0,40.0,369500.0,0,23,0,Zarar
+Kabak  ,50265,Mayıs,4.5,Marmara,Kısa Süre,4.0,30.0,7068940.0,0,24,0,Zarar
+Kavun ,1777059,Mart,3.9,Doğu Anadolu,Kısa Süre,1.5,30.0,7217580.0,0,25,0,Zarar
+Karpuz ,3870515,Mayıs,3.9,Güneydoğu Anadolu,Kısa Süre,1.0,35.4,8336570.0,0,26,0,Zarar
+Bezelye ,98200,Şubat,13.0,Akdeniz,Kısa Süre,2.5,21.0,1003050.0,0,27,0,Zarar
+Fasulye ,596074,Mayıs,3.85,İç Anadolu,Kısa Süre,5.0,20.0,4532620.0,0,28,0,Zarar
+Börülce ,18420,Mart,7.9,Marmara,Kısa Süre,7.0,25.0,204070.0,0,29,0,Zarar
+Bakla ,40068,Eylül,14.99,İç Anadolu,Kısa Süre,5.0,23.0,425260.0,0,30,0,Zarar
+Fasulye,89860,Mayıs,14.9,Ege,Kısa Süre,12.0,35.0,803580.0,0,31,0,Zarar
+Karnabahar ,234356,Haziran,19.9,Ege,Kısa Süre,2.0,30.0,910320.0,0,32,0,Zarar
+Brokoli ,80920,Mayıs,4.4,Akdeniz,Uzun Süre ,2.0,35.0,416220.0,0,33,0,Zarar
+Lahana  ,567622,Mart,3.8,Doğu Anadolu,Uzun Süre ,3.0,30.0,1371140.0,0,35,0,Zarar
+Lahana  ,192219,Eylül,9.9,İç Anadolu,Uzun Süre ,3.0,25.0,522660.0,0,36,0,Zarar
+Lahana  ,56726,Haziran,7.9,Doğu Anadolu,Uzun Süre ,4.0,20.0,485020.0,0,37,0,Zarar
+Lahana  ,3100,Mayıs,2.98,Doğu Anadolu,Uzun Süre ,3.5,45.0,15740.0,0,38,0,Zarar
+Marul ,198491,Mart,9.9,Ege,Kısa Süre,2.0,50.0,953030.0,0,39,0,Zarar
+Marul  ,215728,Eylül,7.9,Marmara,Kısa Süre,3.0,45.0,914390.0,0,40,0,Zarar
+Marul   ,85547,Haziran,3.49,İç Anadolu,Uzun Süre ,2.5,35.0,291190.0,0,41,0,Zarar
+Enginar ,39071,Mart,7.5,Ege,Uzun Süre ,7.0,25.0,287320.0,0,42,0,Zarar
+Kereviz  ,2169,Mart,4.5,Ege,Kısa Süre,3.0,30.0,11310.0,0,43,0,Zarar
+Ispanak ,229793,Haziran,2.98,İç Anadolu,Kısa Süre,3.0,25.0,1625890.0,0,44,0,Zarar
+Pazı ,8049,Mart,3.49,Ege,Kısa Süre,2.0,0.0,53600.0,0,45,0,Zarar
+Semizotu ,4931,Mart,3.49,Marmara,Kısa Süre,2.0,40.0,26880.0,0,46,0,Zarar
+Maydanoz ,92954,Nisan,3.49,Marmara,Kısa Süre,1.0,7.0,755620.0,0,47,0,Zarar
+Roka ,13654,Mart,3.4,İç Anadolu,Kısa Süre,2.0,7.0,123890.0,0,48,0,Zarar
+Tere ,6629,Mart,3.5,Marmara,Kısa Süre,2.0,7.0,65760.0,0,49,0,Zarar
+Nane ,16011,Mart,9.9,Marmara,Kısa Süre,1.0,7.0,126500.0,0,50,0,Zarar
+Dereotu ,8740,Mart,14.5,Ege,Kısa Süre,2.0,7.0,104310.0,0,51,0,Zarar
+Kuşkonmaz ,174,Mart,9.9,Güneydoğu Anadolu,Uzun Süre ,4.0,0.0,499.0,0,52,0,Zarar
+Armut,530723,Kasım,5.0,Ege,Uzun Süre ,4.8,35.0,11554.0,0,53,0,Zarar
+Ayva,180542,Eylül,5.9,İç Anadolu,Uzun Süre ,3.8,30.0,3428.0,0,54,0,Zarar
+Elma ,1029,Kasım,16.0,İç Anadolu,Uzun Süre ,5.0,25.0,525.0,0,55,0,Zarar
+Muşmula,4790,Kasım,2.0,Marmara,Uzun Süre ,5.8,27.0,246.0,0,56,1,Kar
+Yenidünya,16170,Kasım,7.05,Akdeniz,Uzun Süre ,5.0,29.0,264.0,0,57,0,Zarar
+Erik,317946,Mayıs,1.75,Ege,Uzun Süre ,5.0,35.0,8589.0,0,58,1,Kar
+İğde,4141,Nisan,1.5,Akdeniz,Uzun Süre ,4.0,30.0,276.0,0,59,0,Zarar
+Kayısı,846606,Ekim,3.2,Doğu Anadolu,Uzun Süre ,3.0,20.0,17266.0,0,60,0,Zarar
+Kızılcık,10269,Ağustos,1.25,Marmara,Uzun Süre ,5.0,35.0,686.0,0,61,1,Kar
+Kiraz,664224,Kasım,6.9,Marmara,Uzun Süre ,8.0,17.0,21115.0,0,62,0,Zarar
+Şeftali,830577,Nisan,3.35,Doğu Anadolu,Uzun Süre ,4.0,22.0,17474.0,0,63,0,Zarar
+Vişne,182165,Nisan,2.13,İç Anadolu,Uzun Süre ,5.0,21.0,5792.0,0,64,1,Kar
+Zerdali,17225,Mart,3.5,Akdeniz,Uzun Süre ,3.0,28.0,755.0,0,65,0,Zarar
+Zeytin ,1525000,Eylül,5.99,Ege,Uzun Süre ,5.0,20.0,154037.0,19,66,0,Zarar
+Portakal ,1700000,Ekim,5.99,Güneydoğu Anadolu,Uzun Süre ,3.0,20.0,12985.0,0,67,0,Zarar
+Mandalina ,1400000,Mart,5.99,Akdeniz,Uzun Süre ,2.5,17.0,15183.0,0,68,0,Zarar
+Limon,950000,Mart,6.26,Akdeniz,Uzun Süre ,5.0,18.0,9798.0,0,69,0,Zarar
+Greyfurt,249185,Mart,5.54,Akdeniz,Uzun Süre ,4.0,20.0,1229.0,0,70,0,Zarar
+Turunç,2230,Mart,4.5,Akdeniz,Uzun Süre ,3.0,25.0,54.0,0,71,0,Zarar
+Antep fıstığı,85000,Kasım,32.0,Güneydoğu Anadolu,Uzun Süre ,70.0,25.0,52061.0,0,72,1,Kar
+Badem,150000,Kasım,1.45,Ege,Uzun Süre ,80.0,30.0,9522.0,0,73,1,Kar
+Ceviz,225000,Mart,9.99,Ege,Uzun Süre ,70.0,25.0,11251.0,0,74,1,Kar
+Fındık,776046,Mart,1.2,Karadeniz,Uzun Süre ,62.0,35.0,384935.0,21,75,1,Kar
+Kestane,72655,Nisan,1.95,Ege,Uzun Süre ,20.0,30.0,2114.0,0,76,1,Kar
+Üzüm,4200000,Eylül,1.75,Ege,Uzun Süre ,7.1,27.0,4169068.0,0,77,1,Kar
+Çilek,486705,Temmuz,3.99,Marmara,Uzun Süre ,8.0,37.0,160899.0,0,78,1,Kar
+Dut,69317,Kasım,1.25,Akdeniz,Uzun Süre ,74.0,21.0,2021.0,0,79,1,Kar
+İncir,310000,Ocak,17.99,Ege,Uzun Süre ,45.0,24.0,10052.0,0,80,1,Kar
+Keçiboynuzu,16256,Mart,6.99,Akdeniz,Uzun Süre ,17.0,35.0,342.0,0,81,1,Kar
+Muz,548323,Mart,5.99,Akdeniz,Uzun Süre ,8.1,33.0,84879.0,0,82,0,Zarar
+Nar,559171,Eylül,4.29,Ege,Uzun Süre ,4.1,17.0,13739.0,0,83,0,Zarar
+Trabzon Hurması,51317,Kasım,2.12,Akdeniz,Uzun Süre ,60.0,29.0,1087.0,0,84,1,Kar
+Kivi,63798,Kasım,5.99,Karadeniz,Uzun Süre ,24.0,30.0,1616.0,0,85,1,Kar
+Avakado,4209,Nisan,11.45,Akdeniz,Uzun Süre ,7.0,35.0,73.0,0,86,0,Zarar
+Ahududu,5975,Mart,8.15,Marmara,Kısa Süre,8.0,33.0,6875.0,0,87,0,Zarar
+Böğürtlen,2708,Kasım,7.29,Marmara,Kısa Süre,20.0,18.0,2956.0,0,88,1,Kar
+Maviyemiş,443,Eylül,5.99,Karadeniz,Kısa Süre,30.0,16.0,1055.0,0,89,1,Kar
+Buğday,19000000,Kasım,1.3,İç Anadolu,Uzun Süre ,1.5,30.0,68463271.0,27,90,1,Kar
+Arpa,177306,Kasım,1.9,İç Anadolu,Uzun Süre ,1.75,27.0,28690715.0,27,91,0,Zarar
+Çavdar,320000,Kasım,1.4,Doğu Anadolu,Uzun Süre ,1.3,22.0,1109025.0,27,92,1,Kar
+Yulaf,265000,Ekim,2.0,İç Anadolu,Uzun Süre ,10.0,17.0,1098227.0,27,93,1,Kar
+Çeltik,1000000,Mayıs,1.5,Marmara,Uzun Süre ,5.0,15.0,1264190.0,66,94,1,Kar
+Aspir,21883,Mart,2.3,İç Anadolu,Kısa Süre,17.5,13.0,1585990.0,21,95,1,Kar
+Ayçiçeği,1949229,Eylül,14.0,Marmara,Uzun Süre ,2.7,15.0,7344651.0,30,96,0,Zarar
+Mısır,5700000,Kasım,2.23,Akdeniz,Uzun Süre ,1.5,17.0,5919003.0,29,97,0,Zarar
+Kolza,180000,Eylül,1.12,Marmara,Uzun Süre ,1.7,10.0,5251000.0,21,98,1,Kar
+Kuru Fasulye,225000,Mart,1.9,Akdeniz,Uzun Süre ,12.0,30.0,8889860.0,26,99,1,Kar
+Pamuk,2200000,Mart,0.7,Güneydoğu Anadolu,Uzun Süre ,4.0,35.0,4778681.0,80,100,1,Kar
+Mercimek,310000,Ekim,4.5,Güneydoğu Anadolu,Kısa Süre,5.0,22.0,2427761.0,26,101,1,Kar
+Nohut,630000,Mart,10.5,İç Anadolu,Uzun Süre ,8.0,23.0,5144159.0,26,102,0,Zarar
+Patates,4550000,Aralık,7.9,Doğu Anadolu,Uzun Süre ,2.0,15.0,1359373.0,31,103,0,Zarar
+Soya,150000,Nisan,4.0,Karadeniz,Uzun Süre ,17.4,16.0,3529470.0,30,104,1,Kar
+Tütün,70000,Nisan,1.9,Ege,Kısa Süre,50.0,14.0,810349.0,0,105,1,Kar
+Çay,848801,Mart,1.35,Karadeniz,Uzun Süre ,35.0,20.0,1450000.0,21,106,1,Kar
+Yerfıstığı,169328,Nisan,7.0,Akdeniz,Uzun Süre ,17.5,30.0,4221810.0,0,107,1,Kar
+Buğday,7600000,Kasım,1.3,İç Anadolu,Uzun Süre ,79.3,30.0,57507636.0,27,108,1,Kar
+Arpa,400000,Kasım,1.9,İç Anadolu,Uzun Süre ,1.5,27.0,1304304.0,27,109,0,Zarar
+Çavdar,310000,Kasım,1.4,Doğu Anadolu,Uzun Süre ,1.75,22.0,1121642.0,27,110,1,Kar
+Yulaf,260000,Ekim,2.0,İç Anadolu,Uzun Süre ,1.3,17.0,1058254.0,27,111,0,Zarar
+Çeltik,940000,Mayıs,1.5,Marmara,Uzun Süre ,10.0,15.0,1201424.0,66,112,1,Kar
+Aspir,138,Mart,2.3,İç Anadolu,Kısa Süre,5.0,13.0,8478630.0,21,113,1,Kar
+Ayçiçeği,2100000,Eylül,14.0,Marmara,Uzun Süre ,17.5,15.0,7526318.0,30,114,1,Kar
+Mısır,6000000,Kasım,2.23,Akdeniz,Uzun Süre ,2.7,17.0,6388287.0,29,115,1,Kar
+Kolza,125000,Eylül,1.12,Marmara,Uzun Süre ,1.7,10.0,3784560.0,21,116,1,Kar
+Fasulye,847863,Mart,1.9,Akdeniz,Uzun Süre ,12.0,30.0,2250000.0,26,117,1,Kar
+Pamuk,2570000,Mart,0.7,Güneydoğu Anadolu,Uzun Süre ,4.0,35.0,5186342.0,80,118,1,Kar
+Mercimek,43631,Ekim,4.5,Doğu Anadolu,Kısa Süre,5.0,22.0,43631.0,26,119,1,Kar
+Nohut,630000,Mart,10.5,Doğu Anadolu,Uzun Süre ,8.0,23.0,5205951.0,26,120,0,Zarar
+Patates,4979824,Aralık,7.9,İç Anadolu,Uzun Süre ,2.0,15.0,1408967.0,31,121,0,Zarar
+Soya,328483,Nisan,4.0,Karadeniz,Uzun Süre ,17.4,16.0,1500000.0,30,122,1,Kar
+Yerfıstığı,443342,Nisan,7.0,Akdeniz,Uzun Süre ,16.0,14.0,1738350.0,0,123,1,Kar
+Soğan  ,142854,Şubat,4.9,İç Anadolu,Kısa Süre,2.0,15.0,863020.0,21,124,0,Zarar
+Soğan  ,1930695,Eylül,4.9,Güneydoğu Anadolu,Uzun Süre ,3.0,20.0,5271330.0,0,125,0,Zarar
+Sarımsak  ,25519,Ekim,3.0,Güneydoğu Anadolu,Uzun Süre ,50.0,30.0,205790.0,0,126,1,Kar
+Sarımsak ,117688,Mart,4.0,İç Anadolu,Uzun Süre ,40.0,25.0,1333970.0,0,127,1,Kar
+Pırasa ,252958,Mart,3.4,Akdeniz,Uzun Süre ,1.2,12.5,777790.0,0,128,0,Zarar
+Havuç ,642837,Mart,2.9,İç Anadolu,Kısa Süre,3.0,15.0,1234780.0,0,129,0,Zarar
+Şalgam ,1530,Eylül,4.9,Doğu Anadolu,Kısa Süre,2.5,27.5,6910.0,0,130,0,Zarar
+Pancar  ,8119,Mart,6.9,İç Anadolu,Uzun Süre ,5.25,22.0,30170.0,0,131,0,Zarar
+Kereviz  ,21603,Mart,4.5,Ege,Kısa Süre,3.0,35.0,95110.0,0,132,0,Zarar
+Turp  ,14003,Mart,4.9,Doğu Anadolu,Kısa Süre,2.0,32.0,65930.0,0,133,0,Zarar
+Turp  ,177067,Ekim,6.9,Karadeniz,Kısa Süre,3.0,29.0,563380.0,0,134,0,Zarar
+Turp ,5914,Haziran,4.9,İç Anadolu,Kısa Süre,2.5,27.0,18360.0,0,135,0,Zarar
+Domates ,3735080,Ocak,3.8,Ege,Kısa Süre,3.0,30.0,5197420.0,0,136,0,Zarar
+Salatalık,1701735,Nisan,4.95,Ege,Kısa Süre,1.2,19.0,2888520.0,0,137,0,Zarar
+Acur ,42631,Nisan,3.9,Güneydoğu Anadolu,Kısa Süre,4.0,21.5,233620.0,0,138,0,Zarar
+Biber  ,1128060,Mayıs,4.4,Doğu Anadolu,Kısa Süre,2.25,15.0,3462480.0,0,139,0,Zarar
+Biber  ,397175,Mart,9.9,Akdeniz,Kısa Süre,3.0,30.0,1313510.0,0,140,0,Zarar
+Biber  ,930349,Nisan,7.8,Güneydoğu Anadolu,Uzun Süre ,4.3,17.0,2908850.0,0,141,0,Zarar
+Biber,99390,Mart,9.9,Marmara,Uzun Süre ,3.0,35.0,180400.0,0,142,0,Zarar
+Bamya ,29111,Mart,3.8,Ege,Kısa Süre,15.0,40.0,515800.0,0,143,1,Kar
+Patlıcan ,836284,Ocak,4.5,Doğu Anadolu,Uzun Süre ,2.0,20.0,1992920.0,0,144,0,Zarar
+Kabak  ,474527,Haziran,3.49,Akdeniz,Uzun Süre ,3.0,35.0,997770.0,0,145,0,Zarar
+Balkabağı ,87207,Mart,6.14,Güneydoğu Anadolu,Uzun Süre ,5.0,40.0,360400.0,0,146,0,Zarar
+Kabak  ,55043,Mayıs,4.5,Güneydoğu Anadolu,Kısa Süre,4.0,30.0,7378910.0,0,147,0,Zarar
+Kavun ,1753942,Mart,3.9,Ege,Kısa Süre,1.5,30.0,7351760.0,0,148,0,Zarar
+Karpuz ,4031174,Mayıs,3.9,Ege,Kısa Süre,1.0,35.4,8636100.0,0,149,0,Zarar
+Bezelye ,107344,Şubat,13.0,Ege,Kısa Süre,2.5,21.0,974330.0,0,150,0,Zarar
+Fasulye ,225000,Mayıs,3.85,Ege,Kısa Süre,5.0,20.0,889385.0,0,151,0,Zarar
+Börülce ,1392,Eylül,7.9,Marmara,Kısa Süre,7.0,25.0,13084.0,0,152,0,Zarar
+Bakla ,12346,Ekim,14.99,İç Anadolu,Kısa Süre,5.0,23.0,43316.0,0,153,0,Zarar
+Fasulye,220000,Mayıs,14.9,Ege,Kısa Süre,12.0,35.0,848045.0,0,154,0,Zarar
+Karnabahar ,225151,Haziran,19.9,Ege,Kısa Süre,2.0,30.0,888230.0,0,155,0,Zarar
+Brokoli ,69592,Haziran,4.4,Akdeniz,Uzun Süre ,2.0,35.0,379500.0,0,156,0,Zarar
+Lahana  ,516951,Mart,3.8,Ege,Uzun Süre ,3.0,30.0,1324940.0,0,158,0,Zarar
+Lahana  ,187948,Mart,9.9,İç Anadolu,Uzun Süre ,3.0,25.0,511900.0,0,159,0,Zarar
+Lahana  ,57034,Haziran,7.9,Güneydoğu Anadolu,Uzun Süre ,4.0,20.0,497520.0,0,160,0,Zarar
+Lahana  ,3343,Mart,2.98,Karadeniz,Uzun Süre ,3.5,45.0,19270.0,0,161,0,Zarar
+Marul ,198491,Mart,9.9,Güneydoğu Anadolu,Kısa Süre,2.0,50.0,924370.0,0,162,0,Zarar
+Marul  ,215728,Eylül,7.9,Karadeniz,Kısa Süre,3.0,45.0,937840.0,0,163,0,Zarar
+Marul   ,85547,Haziran,3.49,İç Anadolu,Uzun Süre ,2.5,35.0,283980.0,0,164,0,Zarar
+Enginar ,39477,Nisan,7.5,Ege,Uzun Süre ,7.0,25.0,295740.0,0,165,0,Zarar
+Kereviz  ,2179,Mayıs,4.5,Güneydoğu Anadolu,Kısa Süre,3.0,30.0,11450.0,0,166,0,Zarar
+Pazı ,9631,Nisan,3.49,Güneydoğu Anadolu,Kısa Süre,2.0,0.0,62780.0,0,168,0,Zarar
+Semizotu ,4382,Mayıs,3.49,Marmara,Kısa Süre,2.0,40.0,25130.0,0,169,0,Zarar
+Maydanoz ,78961,Mayıs,3.49,Marmara,Kısa Süre,1.0,7.0,642680.0,0,170,0,Zarar
+Roka ,12930,Nisan,3.4,Ege,Kısa Süre,2.0,7.0,103810.0,0,171,0,Zarar
+Tere ,6517,Mart,3.5,İç Anadolu,Kısa Süre,2.0,7.0,65560.0,0,172,0,Zarar
+Nane ,14511,Mart,9.9,Marmara,Kısa Süre,1.0,7.0,101340.0,0,173,0,Zarar
+Dereotu ,8318,Mart,14.5,Ege,Kısa Süre,2.0,7.0,85730.0,0,174,0,Zarar
+Kuşkonmaz ,169,Mart,9.9,Güneydoğu Anadolu,Uzun Süre ,4.0,0.0,488.0,0,175,0,Zarar
+Armut,519451,Kasım,5.0,Ege,Uzun Süre ,4.8,35.0,11485.0,0,176,0,Zarar
+Ayva,176479,Eylül,5.9,İç Anadolu,Uzun Süre ,3.8,30.0,3384.0,0,177,0,Zarar
+Elma ,3625960,Kasım,16.0,İç Anadolu,Uzun Süre ,5.0,25.0,61288.0,0,178,0,Zarar
+Muşmula,4695,Kasım,2.0,Marmara,Uzun Süre ,5.8,27.0,248.0,0,179,1,Kar
+Yenidünya,15984,Kasım,7.05,Akdeniz,Uzun Süre ,5.0,29.0,263.0,0,180,0,Zarar
+Erik,296878,Mayıs,1.75,Ege,Uzun Süre ,5.0,35.0,8301.0,0,181,1,Kar
+İğde,4427,Nisan,1.5,Akdeniz,Uzun Süre ,4.0,30.0,293.0,0,182,0,Zarar
+Kayısı,750000,Ekim,3.2,Doğu Anadolu,Uzun Süre ,3.0,20.0,16837.0,0,183,0,Zarar
+Kızılcık,10243,Ağustos,1.25,Marmara,Uzun Süre ,5.0,35.0,689.0,0,184,1,Kar
+Kiraz,639564,Kasım,6.9,Marmara,Uzun Süre ,8.0,17.0,20880.0,0,185,0,Zarar
+Şeftali,789457,Nisan,3.35,Akdeniz,Uzun Süre ,4.0,22.0,17170.0,0,186,0,Zarar
+Vişne,184167,Nisan,2.13,İç Anadolu,Uzun Süre ,5.0,21.0,5835.0,0,187,1,Kar
+Zerdali,19927,Mart,3.5,Akdeniz,Uzun Süre ,3.0,28.0,862.0,0,188,0,Zarar
+Zeytin ,1500467,Eylül,5.99,Marmara,Uzun Süre ,5.0,20.0,151069.0,19,189,0,Zarar
+Portakal ,1900000,Ekim,5.99,Akdeniz,Uzun Süre ,3.0,20.0,13150.0,0,190,0,Zarar
+Mandalina ,1650000,Mart,5.99,Akdeniz,Uzun Süre ,2.5,17.0,14396.0,0,191,0,Zarar
+Limon,1100000,Mart,6.26,Akdeniz,Uzun Süre ,6.0,18.0,8733.0,0,192,0,Zarar
+Greyfurt,250000,Mart,5.54,Akdeniz,Uzun Süre ,5.0,20.0,1249.0,0,193,0,Zarar
+Turunç,2052,Mart,4.5,Akdeniz,Uzun Süre ,4.0,25.0,53.0,0,194,0,Zarar
+Antep fıstığı,240000,Kasım,32.0,Güneydoğu Anadolu,Uzun Süre ,71.0,25.0,49558.0,0,195,1,Kar
+Badem,100000,Kasım,1.45,Ege,Uzun Süre ,81.0,30.0,8490.0,0,196,1,Kar
+Ceviz,215000,Mart,9.99,Ege,Uzun Süre ,71.0,25.0,9875.0,0,197,1,Kar
+Fındık,515000,Mart,1.2,Karadeniz,Uzun Süre ,63.0,35.0,378280.0,21,198,1,Kar
+Kestane,63580,Nisan,1.95,Ege,Uzun Süre ,19.0,30.0,1954.0,0,199,1,Kar
+Üzüm,4100000,Eylül,1.75,Ege,Uzun Süre ,5.9,27.0,4054387.0,0,200,1,Kar
+Çilek,440968,Temmuz,3.99,Marmara,Uzun Süre ,7.0,37.0,161021.0,0,201,0,Zarar
+Dut,66647,Kasım,1.25,Akdeniz,Uzun Süre ,72.0,21.0,2324.0,0,202,1,Kar
+İncir,306499,Ocak,17.99,Ege,Uzun Süre ,44.0,24.0,9930.0,0,203,1,Kar
+Keçiboynuzu,15506,Mart,6.99,Akdeniz,Uzun Süre ,26.0,35.0,332.0,0,204,1,Kar
+Muz,498888,Mart,5.99,Akdeniz,Uzun Süre ,7.0,33.0,76163.0,0,205,0,Zarar
+Nar,537847,Eylül,4.29,Ege,Uzun Süre ,3.0,17.0,13574.0,0,206,0,Zarar
+Trabzon Hurması,46676,Kasım,2.12,Akdeniz,Uzun Süre ,60.0,29.0,1031.0,0,207,1,Kar
+Kivi,61920,Kasım,5.99,Karadeniz,Uzun Süre ,22.0,30.0,1489.0,0,208,1,Kar
+Avakado,3164,Nisan,11.45,Akdeniz,Uzun Süre ,6.0,35.0,57.0,0,209,0,Zarar
+Ahududu,5875,Mart,8.15,Marmara,Kısa Süre,7.0,33.0,6769.0,0,210,0,Zarar
+Böğürtlen,2540,Kasım,7.29,Marmara,Kısa Süre,22.0,18.0,2807.0,0,211,1,Kar
+Maviyemiş,375,Eylül,5.99,Karadeniz,Kısa Süre,32.0,16.0,990.0,0,212,1,Kar
+Soğan  ,138993,Şubat,4.9,Akdeniz,Kısa Süre,2.0,15.0,844750.0,21,213,0,Zarar
+Soğan  ,2131513,Ekim,4.9,Güneydoğu Anadolu,Uzun Süre ,3.0,20.0,6135880.0,0,214,0,Zarar
+Sarımsak  ,26328,Eylül,3.0,Akdeniz,Uzun Süre ,50.0,30.0,187300.0,0,215,1,Kar
+Sarımsak ,121805,Nisan,4.0,İç Anadolu,Uzun Süre ,40.0,25.0,1243570.0,0,216,1,Kar
+Pırasa ,208239,Mart,3.4,Akdeniz,Uzun Süre ,1.2,12.5,754190.0,0,217,0,Zarar
+Havuç ,569533,Mart,2.9,İç Anadolu,Kısa Süre,3.0,15.0,1257720.0,0,218,0,Zarar
+Şalgam ,1768,Ekim,4.9,Güneydoğu Anadolu,Kısa Süre,2.5,27.5,9850.0,0,219,0,Zarar
+Pancar  ,7553,Nisan,6.9,İç Anadolu,Uzun Süre ,5.25,22.0,38830.0,0,220,0,Zarar
+Kereviz  ,21387,Mart,4.5,Akdeniz,Kısa Süre,3.0,35.0,97390.0,0,221,0,Zarar
+Turp  ,14444,Nisan,4.9,Ege,Kısa Süre,2.0,32.0,66480.0,0,222,0,Zarar
+Turp  ,178344,Eylül,6.9,Güneydoğu Anadolu,Kısa Süre,3.0,29.0,563040.0,0,223,0,Zarar
+Turp ,5913,Ağustos,4.9,Doğu Anadolu,Kısa Süre,2.5,27.0,19420.0,0,224,0,Zarar
+Domates ,12750000,Ocak,3.8,Akdeniz,Kısa Süre,3.0,30.0,11917720.0,0,225,0,Zarar
+Salatalık,1827782,Mart,4.95,Akdeniz,Kısa Süre,1.2,19.0,2892870.0,0,226,0,Zarar
+Acur ,41863,Mart,3.9,Güneydoğu Anadolu,Kısa Süre,4.0,21.5,257400.0,0,227,0,Zarar
+Biber  ,1107713,Şubat,4.4,Güneydoğu Anadolu,Kısa Süre,2.25,15.0,3727750.0,0,228,0,Zarar
+Biber  ,420904,Mart,9.9,Ege,Kısa Süre,3.0,30.0,1229520.0,0,229,0,Zarar
+Biber  ,945361,Nisan,7.8,Marmara,Uzun Süre ,4.3,17.0,2776420.0,0,230,0,Zarar
+Biber,134194,Mayıs,9.9,Doğu Anadolu,Uzun Süre ,3.0,35.0,193050.0,0,231,0,Zarar
+Bamya ,28536,Mart,3.8,Ege,Kısa Süre,15.0,40.0,515570.0,0,232,1,Kar
+Patlıcan ,883917,Ocak,4.5,Marmara,Uzun Süre ,2.0,20.0,1930670.0,0,233,0,Zarar
+Kabak  ,449561,Haziran,3.49,Marmara,Uzun Süre ,3.0,35.0,967160.0,0,234,0,Zarar
+Balkabağı ,89737,Mart,6.14,Ege,Uzun Süre ,5.0,40.0,369500.0,0,235,0,Zarar
+Kabak  ,41326,Mayıs,4.5,Marmara,Kısa Süre,4.0,30.0,7068940.0,0,236,0,Zarar
+Kavun ,1813422,Mart,3.9,Doğu Anadolu,Kısa Süre,1.5,30.0,7217580.0,0,237,0,Zarar
+Karpuz ,4011313,Mayıs,3.9,Güneydoğu Anadolu,Kısa Süre,1.0,35.4,8336570.0,0,238,0,Zarar
+Bezelye ,107124,Şubat,13.0,Akdeniz,Kısa Süre,2.5,21.0,1003050.0,0,239,0,Zarar
+Fasulye ,630347,Mayıs,3.85,İç Anadolu,Kısa Süre,5.0,20.0,4532620.0,0,240,0,Zarar
+Börülce ,17414,Mart,7.9,Marmara,Kısa Süre,7.0,25.0,204070.0,0,241,0,Zarar
+Bakla ,37511,Eylül,14.99,İç Anadolu,Kısa Süre,5.0,23.0,425260.0,0,242,0,Zarar
+Fasulye,92402,Mayıs,14.9,Ege,Kısa Süre,12.0,35.0,803580.0,0,243,0,Zarar
+Karnabahar ,199710,Haziran,19.9,Ege,Kısa Süre,2.0,30.0,910320.0,0,244,0,Zarar
+Brokoli ,66105,Mayıs,4.4,Akdeniz,Uzun Süre ,2.0,35.0,416220.0,0,245,0,Zarar
+Lahana  ,520796,Mart,3.8,Doğu Anadolu,Uzun Süre ,3.0,30.0,1371140.0,0,247,0,Zarar
+Lahana  ,188316,Eylül,9.9,İç Anadolu,Uzun Süre ,3.0,25.0,522660.0,0,248,0,Zarar
+Lahana  ,3170,Haziran,7.9,Doğu Anadolu,Uzun Süre ,4.0,20.0,485020.0,0,249,0,Zarar
+Lahana  ,66605,Mayıs,2.98,Doğu Anadolu,Uzun Süre ,3.5,45.0,15740.0,0,250,0,Zarar
+Marul ,185070,Mart,9.9,Ege,Kısa Süre,2.0,50.0,953030.0,0,251,0,Zarar
+Marul  ,223449,Eylül,7.9,Marmara,Kısa Süre,3.0,45.0,914390.0,0,252,0,Zarar
+Marul   ,81904,Haziran,3.49,İç Anadolu,Uzun Süre ,2.5,35.0,291190.0,0,253,0,Zarar
+Enginar ,38431,Mart,7.5,Akdeniz,Uzun Süre ,7.0,25.0,287320.0,0,254,0,Zarar
+Kereviz  ,2078,Mart,4.5,Ege,Kısa Süre,3.0,30.0,11310.0,0,255,0,Zarar
+Ispanak ,222177,Haziran,2.98,İç Anadolu,Kısa Süre,3.0,25.0,1625890.0,0,256,0,Zarar
+Pazı ,7770,Mart,3.49,Ege,Kısa Süre,2.0,0.0,53600.0,0,257,0,Zarar
+Semizotu ,5149,Mart,3.49,Ege,Kısa Süre,2.0,40.0,26880.0,0,258,0,Zarar
+Maydanoz ,80304,Nisan,3.49,Marmara,Kısa Süre,1.0,7.0,755620.0,0,259,0,Zarar
+Roka ,9334,Mart,3.4,İç Anadolu,Kısa Süre,2.0,7.0,123890.0,0,260,0,Zarar
+Tere ,5993,Mart,3.5,İç Anadolu,Kısa Süre,2.0,7.0,65760.0,0,261,0,Zarar
+Nane ,14213,Mart,9.9,Güneydoğu Anadolu,Kısa Süre,1.0,7.0,126500.0,0,262,0,Zarar
+Dereotu ,7208,Mart,14.5,Akdeniz,Kısa Süre,2.0,7.0,104310.0,0,263,0,Zarar
+Kuşkonmaz ,178,Mart,9.9,Akdeniz,Uzun Süre ,4.0,0.0,499.0,0,264,0,Zarar
+Armut,503004,Kasım,5.0,Ege,Uzun Süre ,4.8,35.0,11485.0,0,265,0,Zarar
+Ayva,174038,Eylül,5.9,İç Anadolu,Uzun Süre ,3.8,30.0,3384.0,0,266,0,Zarar
+Elma ,3032164,Kasım,16.0,İç Anadolu,Uzun Süre ,5.0,25.0,61288.0,0,267,0,Zarar
+Muşmula,4352,Kasım,2.0,Marmara,Uzun Süre ,5.8,27.0,248.0,0,268,1,Kar
+Yenidünya,15184,Kasım,7.05,Akdeniz,Uzun Süre ,5.0,29.0,263.0,0,269,0,Zarar
+Erik,291934,Mayıs,1.75,Ege,Uzun Süre ,5.0,35.0,8301.0,0,270,1,Kar
+İğde,4460,Nisan,1.5,Akdeniz,Uzun Süre ,4.0,30.0,293.0,0,271,0,Zarar
+Kayısı,985000,Ekim,3.2,Doğu Anadolu,Uzun Süre ,3.0,20.0,16837.0,0,272,0,Zarar
+Kızılcık,10012,Ağustos,1.25,Marmara,Uzun Süre ,5.0,35.0,689.0,0,273,1,Kar
+Kiraz,627132,Kasım,6.9,Marmara,Uzun Süre ,8.0,17.0,20880.0,0,274,0,Zarar
+Şeftali,771459,Nisan,3.35,Akdeniz,Uzun Süre ,4.0,22.0,17170.0,0,275,0,Zarar
+Vişne,181874,Nisan,2.13,İç Anadolu,Uzun Süre ,5.0,21.0,5835.0,0,276,1,Kar
+Zerdali,21653,Mart,3.5,Akdeniz,Uzun Süre ,3.0,28.0,862.0,0,277,0,Zarar
+Zeytin ,2100000,Eylül,5.99,Marmara,Uzun Süre ,5.0,20.0,151069.0,19,278,0,Zarar
+Portakal ,1950000,Ekim,5.99,Akdeniz,Uzun Süre ,3.0,20.0,13150.0,0,279,0,Zarar
+Mandalina ,1550469,Mart,5.99,Akdeniz,Uzun Süre ,2.5,17.0,14396.0,0,280,0,Zarar
+Limon,1007133,Mart,6.26,Akdeniz,Uzun Süre ,6.0,18.0,8733.0,0,281,0,Zarar
+Greyfurt,260000,Mart,5.54,Akdeniz,Uzun Süre ,5.0,20.0,1249.0,0,282,0,Zarar
+Turunç,2124,Mart,4.5,Akdeniz,Uzun Süre ,4.0,25.0,53.0,0,283,0,Zarar
+Antep fıstığı,78000,Kasım,32.0,Güneydoğu Anadolu,Uzun Süre ,71.0,25.0,49558.0,0,284,1,Kar
+Badem,90000,Kasım,1.45,Ege,Uzun Süre ,81.0,30.0,8490.0,0,285,1,Kar
+Ceviz,210000,Mart,9.99,Ege,Uzun Süre ,71.0,25.0,9875.0,0,286,1,Kar
+Fındık,675000,Mart,1.2,Akdeniz,Uzun Süre ,63.0,35.0,378280.0,21,287,1,Kar
+Kestane,62904,Mart,1.95,Akdeniz,Uzun Süre ,19.0,30.0,1954.0,0,288,1,Kar
+Üzüm,4200000,Mart,1.75,Güneydoğu Anadolu,Uzun Süre ,5.9,27.0,4054387.0,0,289,1,Kar
+Çilek,400167,Kasım,3.99,Ege,Uzun Süre ,7.0,37.0,161021.0,0,290,0,Zarar
+Dut,74383,Kasım,1.25,Akdeniz,Uzun Süre ,72.0,21.0,2324.0,0,291,1,Kar
+İncir,305689,Ocak,17.99,Ege,Uzun Süre ,44.0,24.0,9930.0,0,292,1,Kar
+Keçiboynuzu,15016,Mart,6.99,Doğu Anadolu,Uzun Süre ,26.0,35.0,332.0,0,293,1,Kar
+Muz,369009,Mart,5.99,Güneydoğu Anadolu,Uzun Süre ,7.0,33.0,76163.0,0,294,0,Zarar
+Nar,502606,Eylül,4.29,Marmara,Uzun Süre ,3.0,17.0,13574.0,0,295,0,Zarar
+Trabzon Hurması,38043,Kasım,2.12,İç Anadolu,Uzun Süre ,60.0,29.0,1031.0,0,296,1,Kar
+Kivi,56164,Kasım,5.99,Marmara,Uzun Süre ,22.0,30.0,1489.0,0,297,1,Kar
+Avakado,2765,Nisan,11.45,Akdeniz,Uzun Süre ,6.0,35.0,57.0,0,298,0,Zarar
+Ahududu,4989,Ocak,8.15,Marmara,Kısa Süre,7.0,33.0,6769.0,0,299,0,Zarar
+Böğürtlen,2739,Mart,7.29,Akdeniz,Kısa Süre,22.0,18.0,2807.0,0,300,1,Kar
+Maviyemiş,225,Mart,5.99,Güneydoğu Anadolu,Kısa Süre,32.0,16.0,990.0,0,301,1,Kar
+Buğday,169328,Nisan,7.0,Akdeniz,Uzun Süre ,17.5,30.0,4221810.0,0,302,1,Kar
+Arpa,7600000,Kasım,1.3,İç Anadolu,Uzun Süre ,79.3,30.0,57507636.0,27,303,1,Kar
+Çavdar,400000,Kasım,1.9,İç Anadolu,Uzun Süre ,1.5,27.0,1304304.0,27,304,0,Zarar
+Yulaf,310000,Kasım,1.4,Doğu Anadolu,Uzun Süre ,1.75,22.0,1121642.0,27,305,1,Kar
+Çeltik,260000,Ekim,2.0,İç Anadolu,Uzun Süre ,1.3,17.0,1058254.0,27,306,0,Zarar
+Aspir,940000,Mayıs,1.5,Marmara,Uzun Süre ,10.0,15.0,1201424.0,66,307,1,Kar
+Ayçiçeği,138,Mart,2.3,İç Anadolu,Kısa Süre,5.0,13.0,8478630.0,21,308,1,Kar
+Mısır,2100000,Eylül,14.0,Marmara,Uzun Süre ,17.5,15.0,7526318.0,30,309,1,Kar
+Kolza,6000000,Kasım,2.23,Akdeniz,Uzun Süre ,2.7,17.0,6388287.0,29,310,1,Kar
+Kuru Fasulye,125000,Eylül,1.12,Marmara,Uzun Süre ,1.7,10.0,3784560.0,21,311,1,Kar
+Pamuk,847863,Mart,1.9,Akdeniz,Uzun Süre ,12.0,30.0,2250000.0,26,312,1,Kar
+Mercimek,2570000,Mart,0.7,İç Anadolu,Uzun Süre ,4.0,35.0,5186342.0,80,313,1,Kar
+Nohut,43631,Ekim,4.5,İç Anadolu,Kısa Süre,5.0,22.0,43631.0,26,314,1,Kar
+Patates,630000,Mart,10.5,Doğu Anadolu,Uzun Süre ,8.0,23.0,5205951.0,26,315,0,Zarar
+Soya,4979824,Aralık,7.9,İç Anadolu,Uzun Süre ,2.0,15.0,1408967.0,31,316,0,Zarar
+Tütün,328483,Mart,4.0,Karadeniz,Uzun Süre ,17.4,16.0,1500000.0,30,317,1,Kar
+Yerfıstığı,169328,Eylül,7.0,Akdeniz,Uzun Süre ,17.5,30.0,4221810.0,0,318,1,Kar
+Buğday,7600000,Kasım,1.3,İç Anadolu,Uzun Süre ,79.3,30.0,57507636.0,27,319,1,Kar
+Arpa,400000,Eylül,1.9,İç Anadolu,Uzun Süre ,1.5,27.0,1304304.0,27,320,0,Zarar
+Çavdar,310000,Mart,1.4,Doğu Anadolu,Uzun Süre ,1.75,22.0,1121642.0,27,321,1,Kar
+Yulaf,260000,Mart,2.0,İç Anadolu,Uzun Süre ,1.3,17.0,1058254.0,27,322,0,Zarar
+Çeltik,940000,Mayıs,1.5,Marmara,Uzun Süre ,10.0,15.0,1201424.0,66,323,1,Kar
+Aspir,138,Mart,2.3,İç Anadolu,Kısa Süre,5.0,13.0,8478630.0,21,324,1,Kar
+Ayçiçeği,2100000,Eylül,14.0,Marmara,Uzun Süre ,17.5,15.0,7526318.0,30,325,1,Kar
+Mısır,6000000,Kasım,2.23,Akdeniz,Uzun Süre ,2.7,17.0,6388287.0,29,326,1,Kar
+Kolza,125000,Mart,1.12,Marmara,Uzun Süre ,1.7,10.0,3784560.0,21,327,1,Kar
+Fasulye,847863,Eylül,1.9,Akdeniz,Uzun Süre ,12.0,30.0,2250000.0,26,328,1,Kar
+Pamuk,2570000,Kasım,0.7,Güneydoğu Anadolu,Uzun Süre ,4.0,35.0,5186342.0,80,329,1,Kar
+Mercimek,43631,Eylül,4.5,Doğu Anadolu,Kısa Süre,5.0,22.0,43631.0,26,330,1,Kar
+Nohut,630000,Mart,10.5,Doğu Anadolu,Uzun Süre ,8.0,23.0,5205951.0,26,331,0,Zarar
+Patates,4979824,Mart,7.9,İç Anadolu,Uzun Süre ,2.0,15.0,1408967.0,31,332,0,Zarar
+Soya,328483,Nisan,4.0,Karadeniz,Uzun Süre ,17.4,16.0,1500000.0,30,333,1,Kar
+Domates ,12750000,Ocak,3.8,Ege,Uzun Süre,3.0,30.0,11917720.0,0,334,0,Zarar

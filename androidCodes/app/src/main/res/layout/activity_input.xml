@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InputActivity">
+
+    <LinearLayout
+        android:id="@+id/ll_main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FAFAFB"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-57dp">
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="143dp"
+            android:orientation="horizontal"
+            android:paddingTop="15dp">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_gravity="left"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                app:srcCompat="@drawable/agriculture_icon" />
+
+            <TextView
+                android:id="@+id/projectName"
+                android:layout_width="221dp"
+                android:layout_height="120dp"
+                android:fontFamily="@font/allura"
+                android:padding="30dp"
+                android:text="Ne Ekelim"
+                android:textColor="#22A527"
+                android:textSize="38sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="95dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="351dp"
+                android:layout_height="78dp"
+                android:layout_weight="1"
+                android:fontFamily="serif"
+                android:padding="30dp"
+                android:text="Ekim için seçimlerinizi giriniz"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#22A527"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="319dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:textAlignment="center">
+
+            <EditText
+                android:id="@+id/m2"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:hint="Alan (m2)"
+                android:inputType="number"
+                android:textAlignment="center"
+                android:textColor="#FEFFFC"
+                android:textColorHint="#F8F7F7"
+                android:textSize="24sp" />
+
+            <Spinner
+                android:id="@+id/spinnerpRegion"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:textAlignment="center"
+                android:textColor="#FEFFFC"
+                android:textSize="24sp" />
+
+            <Spinner
+                android:id="@+id/spinnerpMounth"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:textAlignment="center"
+                android:textColor="#FEFFFC"
+                android:textSize="24sp" />
+
+            <Spinner
+                android:id="@+id/pTimeSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginBottom="10dp"
+                android:background="#4CAF50"
+                android:fontFamily="@font/arsenal"
+                android:textAlignment="center"
+                android:textColor="#FEFFFC"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnSubmit"
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/arsenal"
+                android:text="Seçimleri Gönder"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textColor="#4CAF50" />
+        </LinearLayout>
+
+        <!--
+        <EditText
+            android:id="@+id/region"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:hint="Bölge (Ege - Karadeniz .. - Marmara)"
+            android:textAlignment="center"
+            android:textColor="#22A527"
+            android:textColorHint="#22A527" />
+
+        <EditText
+            android:id="@+id/pMounth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="cursive"
+            android:hint="Ekim Ayı"
+            android:textAlignment="center"
+            android:textColor="#22A527"
+            android:textColorHint="#22A527" />
+<! -->
+
+
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="72dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/companyName"
+                android:layout_width="340dp"
+                android:layout_height="50dp"
+                android:layout_marginBottom="150dp"
+                android:fontFamily="cursive"
+                android:padding="10dp"
+                android:text="EDSoft"
+                android:textAlignment="center"
+                android:textColor="#22A527"
+                android:textSize="25dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
